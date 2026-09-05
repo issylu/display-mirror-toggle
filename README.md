@@ -57,4 +57,4 @@ A couple of non-obvious gotchas discovered while building this:
 
 ## License
 
-Personal project — no license file yet.
+MIT — see [LICENSE](LICENSE).
