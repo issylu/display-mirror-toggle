@@ -1,0 +1,4 @@
+DisplayToggle
+DisplayToggle.app/
+*.o
+*.dSYM
